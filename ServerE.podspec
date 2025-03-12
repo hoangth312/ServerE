@@ -1,5 +1,5 @@
 {
-  "name": "CocoaHTTPServer",
+  "name": "ServerE",
   "version": "2.3",
   "license": "BSD",
   "summary": "A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications.",
