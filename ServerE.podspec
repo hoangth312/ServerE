@@ -1,7 +1,9 @@
 Pod::Spec.new do |s|
   s.name         = 'ServerE'
   s.version      = '2.3'
-  s.license      = { :type => 'BSD' }
+ s.homepage     = "http://www.connectsdk.com/"
+  s.license      = { :type => "Apache License, Version 2.0", :file => "LICENSE" }
+  s.author             = { "Connect SDK" => "support@connectsdk.com" }
   s.summary      = 'A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications.'
   s.source       = { :git => 'https://github.com/hoangth312/ServerE.git', :tag => '2.3' }
   s.source_files = '{Core,Extensions}/**/*.{h,m}'
