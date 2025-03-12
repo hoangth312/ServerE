@@ -3,12 +3,12 @@
   "version": "2.3",
   "license": "BSD",
   "summary": "A small, lightweight, embeddable HTTP server for Mac OS X or iOS applications.",
-  "homepage": "https://github.com/robbiehanson/CocoaHTTPServer",
+  "homepage": "https://github.com/hoangth312/ServerE",
   "authors": {
     "Robbie Hanson": "cocoahttpserver@googlegroups.com"
   },
   "source": {
-    "git": "https://github.com/robbiehanson/CocoaHTTPServer.git",
+    "git": "https://github.com/hoangth312/ServerE.git",
     "tag": "2.3"
   },
   "source_files": "{Core,Extensions}/**/*.{h,m}",
